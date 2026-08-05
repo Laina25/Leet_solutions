@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Laina25/Leet_solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Laina25/Leet_solutions/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Laina25/Leet_solutions/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Laina25/Leet_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
