@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Laina25/Leet_solutions/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/Laina25/Leet_solutions/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
