@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Laina25/Leet_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Laina25/Leet_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Laina25/Leet_solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Laina25/Leet_solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Laina25/Leet_solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Laina25/Leet_solutions/tree/master/0112-path-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Laina25/Leet_solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
