@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Laina25/Leet_solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Laina25/Leet_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Laina25/Leet_solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Laina25/Leet_solutions/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Laina25/Leet_solutions/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Laina25/Leet_solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Laina25/Leet_solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Laina25/Leet_solutions/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/Laina25/Leet_solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Laina25/Leet_solutions/tree/master/0029-divide-two-integers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Laina25/Leet_solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
