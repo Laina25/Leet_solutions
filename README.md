@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/Laina25/Leet_solutions/tree/master/0065-valid-number) |
+| [0402-remove-k-digits](https://github.com/Laina25/Leet_solutions/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Laina25/Leet_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Laina25/Leet_solutions/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Laina25/Leet_solutions/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Laina25/Leet_solutions/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Laina25/Leet_solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
