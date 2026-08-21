@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Laina25/Leet_solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Laina25/Leet_solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Laina25/Leet_solutions/tree/master/0069-sqrtx) |
+| [0400-nth-digit](https://github.com/Laina25/Leet_solutions/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Laina25/Leet_solutions/tree/master/0069-sqrtx) |
+| [0400-nth-digit](https://github.com/Laina25/Leet_solutions/tree/master/0400-nth-digit) |
 ## Newton's Method
 |  |
 | ------- |
