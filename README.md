@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Laina25/Leet_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Laina25/Leet_solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Laina25/Leet_solutions/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Laina25/Leet_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Laina25/Leet_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Laina25/Leet_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Laina25/Leet_solutions/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Laina25/Leet_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Laina25/Leet_solutions/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Laina25/Leet_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Laina25/Leet_solutions/tree/master/0402-remove-k-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Laina25/Leet_solutions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
