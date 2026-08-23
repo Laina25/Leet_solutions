@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Laina25/Leet_solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Laina25/Leet_solutions/tree/master/0069-sqrtx) |
 | [0400-nth-digit](https://github.com/Laina25/Leet_solutions/tree/master/0400-nth-digit) |
+| [0593-valid-square](https://github.com/Laina25/Leet_solutions/tree/master/0593-valid-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Laina25/Leet_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Laina25/Leet_solutions/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
