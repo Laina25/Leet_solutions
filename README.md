@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Laina25/Leet_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Laina25/Leet_solutions/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Laina25/Leet_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Laina25/Leet_solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/Laina25/Leet_solutions/tree/master/0065-valid-number) |
 | [0402-remove-k-digits](https://github.com/Laina25/Leet_solutions/tree/master/0402-remove-k-digits) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Laina25/Leet_solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Laina25/Leet_solutions/tree/master/0029-divide-two-integers) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Laina25/Leet_solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Laina25/Leet_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Laina25/Leet_solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Geometry
 |  |
 | ------- |
