@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Laina25/Leet_solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Laina25/Leet_solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Laina25/Leet_solutions/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0400-nth-digit](https://github.com/Laina25/Leet_solutions/tree/master/0400-nth-digit) |
 | [0593-valid-square](https://github.com/Laina25/Leet_solutions/tree/master/0593-valid-square) |
 ## Divide and Conquer
@@ -92,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Laina25/Leet_solutions/tree/master/0118-pascals-triangle) |
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Laina25/Leet_solutions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Laina25/Leet_solutions/tree/master/0112-path-sum) |
 ## Bit Manipulation
 |  |
@@ -140,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Laina25/Leet_solutions/tree/master/0593-valid-square) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
