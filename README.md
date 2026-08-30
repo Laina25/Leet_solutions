@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Laina25/Leet_solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Laina25/Leet_solutions/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Laina25/Leet_solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Laina25/Leet_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Laina25/Leet_solutions/tree/master/0402-remove-k-digits) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Laina25/Leet_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
 |  |
 | ------- |
