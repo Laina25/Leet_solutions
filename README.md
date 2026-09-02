@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Laina25/Leet_solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Laina25/Leet_solutions/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Laina25/Leet_solutions/tree/master/0029-divide-two-integers) |
+| [0190-reverse-bits](https://github.com/Laina25/Leet_solutions/tree/master/0190-reverse-bits) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Laina25/Leet_solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Floyd's Cycle Finding Algorithm
 |  |
