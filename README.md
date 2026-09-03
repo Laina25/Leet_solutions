@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/Laina25/Leet_solutions/tree/master/0233-number-of-digit-one) |
 | [0400-nth-digit](https://github.com/Laina25/Leet_solutions/tree/master/0400-nth-digit) |
+| [0415-add-strings](https://github.com/Laina25/Leet_solutions/tree/master/0415-add-strings) |
 | [0593-valid-square](https://github.com/Laina25/Leet_solutions/tree/master/0593-valid-square) |
 ## Divide and Conquer
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/Laina25/Leet_solutions/tree/master/0065-valid-number) |
 | [0402-remove-k-digits](https://github.com/Laina25/Leet_solutions/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Laina25/Leet_solutions/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Laina25/Leet_solutions/tree/master/0709-to-lower-case) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/Laina25/Leet_solutions/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Dynamic Programming
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Laina25/Leet_solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Laina25/Leet_solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
