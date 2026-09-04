@@ -102,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Laina25/Leet_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Laina25/Leet_solutions/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/Laina25/Leet_solutions/tree/master/0233-number-of-digit-one) |
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Laina25/Leet_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Laina25/Leet_solutions/tree/master/0112-path-sum) |
 ## Depth-First Search
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Laina25/Leet_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0112-path-sum](https://github.com/Laina25/Leet_solutions/tree/master/0112-path-sum) |
 ## Bit Manipulation
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Laina25/Leet_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Laina25/Leet_solutions/tree/master/0096-unique-binary-search-trees) |
 ## Trie
 |  |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Laina25/Leet_solutions/tree/master/0415-add-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Laina25/Leet_solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
