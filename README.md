@@ -36,9 +36,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Laina25/Leet_solutions/tree/master/0089-gray-code) |
 | [0397-integer-replacement](https://github.com/Laina25/Leet_solutions/tree/master/0397-integer-replacement) |
 ## Memoization
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Laina25/Leet_solutions/tree/master/0397-integer-replacement) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Laina25/Leet_solutions/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Laina25/Leet_solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
