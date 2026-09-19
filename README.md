@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Laina25/Leet_solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laina25/Leet_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Queue
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Laina25/Leet_solutions/tree/master/0239-sliding-window-maximum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Laina25/Leet_solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Laina25/Leet_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Laina25/Leet_solutions/tree/master/0099-recover-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
