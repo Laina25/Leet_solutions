@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Laina25/Leet_solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Laina25/Leet_solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Laina25/Leet_solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Laina25/Leet_solutions/tree/master/0089-gray-code) |
+| [0137-single-number-ii](https://github.com/Laina25/Leet_solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/Laina25/Leet_solutions/tree/master/0397-integer-replacement) |
 ## Memoization
