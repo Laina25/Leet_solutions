@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Laina25/Leet_solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Laina25/Leet_solutions/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Laina25/Leet_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Laina25/Leet_solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laina25/Leet_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Laina25/Leet_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Laina25/Leet_solutions/tree/master/0239-sliding-window-maximum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Laina25/Leet_solutions/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/Laina25/Leet_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
