@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Laina25/Leet_solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/Laina25/Leet_solutions/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Laina25/Leet_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
