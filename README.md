@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Laina25/Leet_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Laina25/Leet_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
+| [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laina25/Leet_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Queue
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Laina25/Leet_solutions/tree/master/0097-interleaving-string) |
 | [0397-integer-replacement](https://github.com/Laina25/Leet_solutions/tree/master/0397-integer-replacement) |
 | [0458-poor-pigs](https://github.com/Laina25/Leet_solutions/tree/master/0458-poor-pigs) |
+| [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laina25/Leet_solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Laina25/Leet_solutions/tree/master/0089-gray-code) |
+| [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/Laina25/Leet_solutions/tree/master/0458-poor-pigs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
