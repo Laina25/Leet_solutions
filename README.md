@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/Laina25/Leet_solutions/tree/master/0097-interleaving-string) |
 | [0397-integer-replacement](https://github.com/Laina25/Leet_solutions/tree/master/0397-integer-replacement) |
+| [0458-poor-pigs](https://github.com/Laina25/Leet_solutions/tree/master/0458-poor-pigs) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laina25/Leet_solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Greedy
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Laina25/Leet_solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Laina25/Leet_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
+| [0458-poor-pigs](https://github.com/Laina25/Leet_solutions/tree/master/0458-poor-pigs) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Laina25/Leet_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/Laina25/Leet_solutions/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
