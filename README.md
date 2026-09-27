@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Laina25/Leet_solutions/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Laina25/Leet_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Laina25/Leet_solutions/tree/master/0299-bulls-and-cows) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Laina25/Leet_solutions/tree/master/0013-roman-to-integer) |
 | [0097-interleaving-string](https://github.com/Laina25/Leet_solutions/tree/master/0097-interleaving-string) |
+| [0299-bulls-and-cows](https://github.com/Laina25/Leet_solutions/tree/master/0299-bulls-and-cows) |
 ## Tree
 |  |
 | ------- |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Laina25/Leet_solutions/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/Laina25/Leet_solutions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
