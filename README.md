@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Laina25/Leet_solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Laina25/Leet_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Laina25/Leet_solutions/tree/master/0367-valid-perfect-square) |
 | [0458-poor-pigs](https://github.com/Laina25/Leet_solutions/tree/master/0458-poor-pigs) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Laina25/Leet_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Laina25/Leet_solutions/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/Laina25/Leet_solutions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
