@@ -184,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Laina25/Leet_solutions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
