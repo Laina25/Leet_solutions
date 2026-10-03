@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Laina25/Leet_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0493-reverse-pairs](https://github.com/Laina25/Leet_solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Laina25/Leet_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Laina25/Leet_solutions/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laina25/Leet_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Laina25/Leet_solutions/tree/master/0367-valid-perfect-square) |
 | [0458-poor-pigs](https://github.com/Laina25/Leet_solutions/tree/master/0458-poor-pigs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Laina25/Leet_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Laina25/Leet_solutions/tree/master/0633-sum-of-square-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Laina25/Leet_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Laina25/Leet_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Laina25/Leet_solutions/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
