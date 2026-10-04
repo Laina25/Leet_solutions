@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Laina25/Leet_solutions/tree/master/0013-roman-to-integer) |
 | [0097-interleaving-string](https://github.com/Laina25/Leet_solutions/tree/master/0097-interleaving-string) |
 | [0299-bulls-and-cows](https://github.com/Laina25/Leet_solutions/tree/master/0299-bulls-and-cows) |
+| [0482-license-key-formatting](https://github.com/Laina25/Leet_solutions/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Laina25/Leet_solutions/tree/master/0541-reverse-string-ii) |
 ## Tree
 |  |
