@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Laina25/Leet_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0493-reverse-pairs](https://github.com/Laina25/Leet_solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Laina25/Leet_solutions/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Laina25/Leet_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Laina25/Leet_solutions/tree/master/0658-find-k-closest-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/Laina25/Leet_solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Laina25/Leet_solutions/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Laina25/Leet_solutions/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
