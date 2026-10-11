@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Laina25/Leet_solutions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Laina25/Leet_solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Laina25/Leet_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Laina25/Leet_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Laina25/Leet_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Laina25/Leet_solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Laina25/Leet_solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Laina25/Leet_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Laina25/Leet_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Laina25/Leet_solutions/tree/master/0299-bulls-and-cows) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Laina25/Leet_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Laina25/Leet_solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Laina25/Leet_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Laina25/Leet_solutions/tree/master/0658-find-k-closest-elements) |
