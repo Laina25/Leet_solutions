@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Laina25/Leet_solutions/tree/master/0089-gray-code) |
+| [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Laina25/Leet_solutions/tree/master/0013-roman-to-integer) |
 | [0097-interleaving-string](https://github.com/Laina25/Leet_solutions/tree/master/0097-interleaving-string) |
+| [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Laina25/Leet_solutions/tree/master/0299-bulls-and-cows) |
 | [0482-license-key-formatting](https://github.com/Laina25/Leet_solutions/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Laina25/Leet_solutions/tree/master/0541-reverse-string-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Laina25/Leet_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Laina25/Leet_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Laina25/Leet_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laina25/Leet_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Laina25/Leet_solutions/tree/master/0998-maximum-binary-tree-ii) |
 ## Breadth-First Search
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Laina25/Leet_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Laina25/Leet_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Laina25/Leet_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laina25/Leet_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Laina25/Leet_solutions/tree/master/0998-maximum-binary-tree-ii) |
 ## Depth-First Search
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Laina25/Leet_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Laina25/Leet_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Laina25/Leet_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Laina25/Leet_solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laina25/Leet_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
