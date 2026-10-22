@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Laina25/Leet_solutions/tree/master/0299-bulls-and-cows) |
 | [0482-license-key-formatting](https://github.com/Laina25/Leet_solutions/tree/master/0482-license-key-formatting) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Laina25/Leet_solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Laina25/Leet_solutions/tree/master/0541-reverse-string-ii) |
 ## Tree
 |  |
