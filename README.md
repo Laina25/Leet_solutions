@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Laina25/Leet_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Laina25/Leet_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Laina25/Leet_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laina25/Leet_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Laina25/Leet_solutions/tree/master/0998-maximum-binary-tree-ii) |
 ## Breadth-First Search
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Laina25/Leet_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Laina25/Leet_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Laina25/Leet_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Laina25/Leet_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Laina25/Leet_solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laina25/Leet_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Laina25/Leet_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Laina25/Leet_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Laina25/Leet_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laina25/Leet_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Laina25/Leet_solutions/tree/master/0998-maximum-binary-tree-ii) |
 ## Depth-First Search
@@ -171,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Laina25/Leet_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Laina25/Leet_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Laina25/Leet_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Laina25/Leet_solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Laina25/Leet_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Laina25/Leet_solutions/tree/master/0099-recover-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Laina25/Leet_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Enumeration
 |  |
 | ------- |
