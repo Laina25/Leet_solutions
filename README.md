@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Laina25/Leet_solutions/tree/master/0097-interleaving-string) |
+| [0392-is-subsequence](https://github.com/Laina25/Leet_solutions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Laina25/Leet_solutions/tree/master/0397-integer-replacement) |
 | [0458-poor-pigs](https://github.com/Laina25/Leet_solutions/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/Laina25/Leet_solutions/tree/master/0494-target-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Laina25/Leet_solutions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Laina25/Leet_solutions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Laina25/Leet_solutions/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Laina25/Leet_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Laina25/Leet_solutions/tree/master/0658-find-k-closest-elements) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Laina25/Leet_solutions/tree/master/0097-interleaving-string) |
 | [0257-binary-tree-paths](https://github.com/Laina25/Leet_solutions/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Laina25/Leet_solutions/tree/master/0299-bulls-and-cows) |
+| [0392-is-subsequence](https://github.com/Laina25/Leet_solutions/tree/master/0392-is-subsequence) |
 | [0482-license-key-formatting](https://github.com/Laina25/Leet_solutions/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Laina25/Leet_solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Laina25/Leet_solutions/tree/master/0541-reverse-string-ii) |
